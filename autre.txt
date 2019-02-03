@@ -1,2 +1,3 @@
 je test l'ajout d'un fichier.
 simulation d'un autre utilisateur.
+Ajout depuis ma machine.
